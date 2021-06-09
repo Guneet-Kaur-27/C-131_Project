@@ -1,0 +1,33 @@
+body
+{
+background-position: center;
+background-size: cover;
+}
+a
+{
+font-size: 20px !important;
+width: 400px;
+border-radius: 10px !important;
+background-color: white;
+color: black;
+}
+#cup {
+    width: 400px;
+    height: 400px;
+}
+#diary {
+    width: 400px;
+    height: 400px;
+}
+#glass {
+    width: 400px;
+    height: 400px;
+}
+#guneet {
+    width: 400px;
+    height: 400px;
+}
+#pen {
+    width: 400px;
+    height: 400px;
+}
